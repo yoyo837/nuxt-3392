@@ -15,7 +15,7 @@
     "axios": "^0.16.2",
     "cross-env": "^5.0.1",
     "express": "^4.15.3",
-    "nuxt-edge": "2.0.0-25465851.937ce61",
+    "nuxt-edge": "2.0.0-25561513.823c298",
     "source-map-support": "^0.4.15"
   },
   "devDependencies": {
